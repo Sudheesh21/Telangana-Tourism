@@ -140,15 +140,15 @@ a replacement for the source dataset.
 
 **Power BI Dashboard**
 
-![Power BI dashboard](Images\PowerBI_Dashboard.jpg)
+![Power BI dashboard](screenshots/powerbi-dashboard.png)
 
 **Excel Summary**
 
-![Excel summary](Images\Excel_Summary.jpg)
+![Excel summary](screenshots/excel-summary.png)
 
 **Business Insights**
 
-![Business insights worksheet](Images\Excel_BusinessInsights.jpg)
+![Business insights worksheet](screenshots/business-insights.png)
 
 
 ## Limitations
