@@ -144,7 +144,7 @@ a replacement for the source dataset.
 
 **Excel Summary**
 
-![Excel summary](Images\Excel Summary.jpg)
+![Excel summary](Images\Excel_Summary.jpg)
 
 **Business Insights**
 
